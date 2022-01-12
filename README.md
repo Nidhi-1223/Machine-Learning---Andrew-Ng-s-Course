@@ -50,7 +50,6 @@ Here, I'm documenting my Machine Learning journey. I have registered for Andrew 
 - Introduction to Logistic Regression Model
 - Hypothesis Representation for Logistic Regression Model
 - Decision Boundary for Logistic Regression Model
-- 
 
 ### Day 12 (12 / 1 / 22)
 - Cost Function for Logistic Regression Model
