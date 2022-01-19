@@ -67,4 +67,10 @@ Here, I'm documenting my Machine Learning journey. I have registered for [ Andre
 - Regularized Logistic Regression
 - Course Assignment
 
+### Day 15 (15 / 1 / 22)
+- Non - linear hypotheses
+- Introduction to Neural Networks
 
+### Day 16 (16 / 1 / 22)
+- Applications of Neural Networks
+- Course Assignment
