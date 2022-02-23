@@ -148,3 +148,68 @@ Here, I'm documenting my Machine Learning journey. I have registered for [ Andre
 
 ### Day 36 (5 / 2 / 22 )
 - Choosing the number of clusters
+
+### Day 37 (6 / 2 / 22)
+- Data Compression
+- Data Visualization
+
+### Day 38 (7 / 2 / 22)
+- Introduction to Principal Component Analysis
+- PCA problem formation
+
+### Day 39 (8 / 2  / 22 )
+- PCA algorithm
+- Reconstruction from Compressed Algorithm
+
+### Day 40 (9 / 2 / 22)
+- Choosing the number of principal components
+- Applying PCA
+
+### Day 41 (10 / 2 / 22)
+- Course Assignment
+
+### Day 42 (11 / 2 / 22)
+- Gaussian Distribution Introduction
+- Gaussian Distribution Algorithm
+
+### Day 43 (12 / 2 / 22)
+- Developing and Evaluating an Anomaly Detection System
+- Anomaly Detection v/s Supervised Learning
+
+### Day 44 (13 / 2 / 22)
+- Multivariate Gaussion Distribution
+
+### Day 45 (14 / 2 / 22)
+- Anomaly Detection using multivariate Gaussion Distribution
+
+### Day 46 (15 / 2 / 22)
+- Predicting Movie Ratings
+    - Problem Formulation
+    - Content based recommendations
+
+### Day 47 (16 / 2 / 22)
+- Collaborative Filtering Introduction
+- Collaborative Filtering Algorithm
+
+### Day 48 (17 / 2 / 22)
+- Low Rank Matrix Factorization Vectorization
+- Mean Normalization
+
+### Day 49 (18 / 2 / 22)
+- Course Assignment
+
+### Day 50 (19 / 2 / 22)
+- Learning with Large Datasets
+- Stochastic Gradient Descent
+
+### Day 51 (20 / 2 / 22)
+- Mini-Batch Gradient Descent
+- Stochastic Gradient Descent - Convergence
+
+### Day 52 (21 / 2 / 22)
+- Map Reduce
+- Data Parallelism
+
+### Day 53 (22 / 2 / 22)
+- Problem Description & Pipeline
+- Sliding Windows
