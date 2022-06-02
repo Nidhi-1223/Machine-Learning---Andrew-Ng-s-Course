@@ -213,3 +213,4 @@ Here, I'm documenting my Machine Learning journey. I have registered for [ Andre
 ### Day 53 (22 / 2 / 22)
 - Problem Description & Pipeline
 - Sliding Windows
+- Photo OCR
