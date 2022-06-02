@@ -1,4 +1,4 @@
-# 100-days-of-ML
+# Machine Learning - Andrew Ng's Course
 Here, I'm documenting my Machine Learning journey. I have registered for [ Andrew Ng's ML course ](https://www.coursera.org/learn/machine-learning) on coursera. Here's the challenge log
 
 ## Daily Log
